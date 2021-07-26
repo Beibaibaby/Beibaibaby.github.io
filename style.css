@@ -33,7 +33,7 @@ h1 {
     font-size: 48pt;
     font-family: 'Playfair Display', sans-serif;
   
-    background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(245, 233, 149) 50%, rgb(28, 33, 104) 100%);
+    background-image: linear-gradient(120deg, rgb(30,77,53) 0%, rgb(240, 243, 255) 50%, rgb(28, 33, 104) 100%);
     background-repeat: no-repeat;
     background-size: 100% 0.2em;
     background-position: 0 100%;
