@@ -14,7 +14,7 @@ body {
 }
 
 body:after {
-    content: "Thanks to Unsplash (background image)";
+    content: "Thanks to Royalty Free Footages (background image)";
     position: fixed;
     left: 0;
     bottom: 0;
@@ -58,7 +58,7 @@ ul {
 } 
 
 ul:before {
-    content: 'Quick links';
+    content: 'Links';
     font-family: 'Permanent Marker', cursive;
     color: rgb(28, 33, 104);
     background-color: rgba(245, 233, 149, 0.5);
